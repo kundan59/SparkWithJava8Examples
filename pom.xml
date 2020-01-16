@@ -10,7 +10,7 @@
     <properties>
         <java.version>1.8</java.version>
         <maven-scala-plugin.version>2.15.2</maven-scala-plugin.version>
-        <spark.version>2.1.0</spark.version>
+        <spark.version>2.4.4</spark.version>
     </properties>
 
     <dependencies>
