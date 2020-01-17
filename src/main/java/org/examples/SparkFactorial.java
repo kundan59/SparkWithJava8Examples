@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 //Illustrate the factorial of a number.
 public class SparkFactorial {
 
-    final static String SPARK_APPLICATION_NAME = "Distinct Names Count";
+    final static String SPARK_APPLICATION_NAME = "Factorial";
     final static String SPARK_APPLICATION_RUNNING_MODE = "local";
 
     public static void main(String[] args) {

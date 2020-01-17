@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-// Illustrate how to find distinct names in the file per first letter.
+// Illustrate how to find count of distinct names in the file per first letter.
 public class DistinctNamesCount {
     final static String FILE_INPUT = "sparkdata/Sparkdistinctnameinputdata";
     final static String SPARK_APPLICATION_NAME = "Distinct Names Count";
